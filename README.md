@@ -1,2 +1,3 @@
-# pro-recommendation-engine-u2of
+# Pro Recommendation Engine U2Of
+
 A repository to test GitHub automation for issue management.
